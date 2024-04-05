@@ -1,0 +1,14 @@
+C:\Users\guize\Desktop\Programas\ExercicioOO\bin\Debug\net8.0\ExercicioOO.exe
+C:\Users\guize\Desktop\Programas\ExercicioOO\bin\Debug\net8.0\ExercicioOO.deps.json
+C:\Users\guize\Desktop\Programas\ExercicioOO\bin\Debug\net8.0\ExercicioOO.runtimeconfig.json
+C:\Users\guize\Desktop\Programas\ExercicioOO\bin\Debug\net8.0\ExercicioOO.dll
+C:\Users\guize\Desktop\Programas\ExercicioOO\bin\Debug\net8.0\ExercicioOO.pdb
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.AssemblyInfoInputs.cache
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.AssemblyInfo.cs
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.csproj.CoreCompileInputs.cache
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.dll
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\refint\ExercicioOO.dll
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.pdb
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.genruntimeconfig.cache
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ref\ExercicioOO.dll
