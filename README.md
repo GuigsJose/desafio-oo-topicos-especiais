@@ -29,3 +29,17 @@
 
 #### No programa principal: Implemente uma rotina que imprima os dados dos livros da pessoa no console.
 
+# Exercicio 03
+
+### Questão 3: Alteração do Construtor da Classe
+
+### Implemente uma classe Estudante com os seguintes atributos:
+
+
+- Matricula (string):  número de matrícula no sistema de dados acadêmicos
+- Nome (string) o nome do estudante
+- Idade (int): idade em anos do estudante
+
+### Altere o construtor da classe Estudante para receber a matrícula, o nome e a idade como argumentos
+
+### Implemente um procedimento no programa principal que imprima os dados do objeto Estudante construído.

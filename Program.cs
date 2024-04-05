@@ -27,3 +27,8 @@ foreach(var livro in Humano.livros)
 {
     Console.WriteLine(livro.Titulo + " - " + livro.Autor);
 }
+
+//Exercicio 3.. implementando um procedimento imprimindo os dados do estudante
+
+aluno Aluno = new aluno("34145443","Guilherme",20);
+Console.WriteLine(Aluno.apresentaAluno());

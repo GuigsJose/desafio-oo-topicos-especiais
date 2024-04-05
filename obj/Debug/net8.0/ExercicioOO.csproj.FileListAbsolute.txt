@@ -12,3 +12,4 @@ C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\refint\ExercicioOO
 C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.pdb
 C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.genruntimeconfig.cache
 C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ref\ExercicioOO.dll
+C:\Users\guize\Desktop\Programas\ExercicioOO\obj\Debug\net8.0\ExercicioOO.sourcelink.json
