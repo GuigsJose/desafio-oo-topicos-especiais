@@ -22,7 +22,7 @@ Livro.Titulo = "Bersek";
 Livro.Autor = "Kentaro Miura";
 Humano.adicionarLivros(Livro);
 
-
+// Laço para apresentar na tela os livros.
 foreach(var livro in Humano.livros)
 {
     Console.WriteLine(livro.Titulo + " - " + livro.Autor);
