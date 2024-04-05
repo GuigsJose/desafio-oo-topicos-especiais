@@ -43,3 +43,20 @@
 ### Altere o construtor da classe Estudante para receber a matrícula, o nome e a idade como argumentos
 
 ### Implemente um procedimento no programa principal que imprima os dados do objeto Estudante construído.
+
+# Exercicio 04
+
+### Questão 4: Recebendo um Objeto como dependência no Construtor
+
+### Crie uma classe chamada Pedido que recebe um objeto Cliente no construtor e atribui esse objeto a uma propriedade Cliente da classe Pedido.
+
+### Cliente deve conter os seguintes atributos:
+- Cpf (string): o cpf da pessoa.
+- Nome (string): o nome da pessoa.
+Pedido deve conter os seguintes atributos;
+- Data (string): data do pedido
+- Cliente (Cliente): Cliente que realizou o pedido
+
+## DESAFIO:
+
+### Implemente a classe pedido de forma que os objetos construídos a partir dela contenham o Cliente, o Vendedor e os Produtos relativos a tal pedido.

@@ -32,3 +32,33 @@ foreach(var livro in Humano.livros)
 
 aluno Aluno = new aluno("34145443","Guilherme",20);
 Console.WriteLine(Aluno.apresentaAluno());
+
+//Exercicio 4... implementando cliente e vendedor 
+cliente C = new cliente();
+C.cpf = "12345678910";
+C.nome = "Joao";
+vendedor V = new vendedor();
+V.id = 1;
+V.nome = "marcos";
+
+//chat gpt ajudou a montar essa lista de produtos.
+List<produto> P = new List<produto>
+{
+    new produto {id = 1, nome = "faca", preco = 50.00},
+    new produto {id = 2, nome = "repelente", preco = 23.90}
+};
+
+
+pedido Pedido = new pedido(C,V,P);
+Pedido.data = "20/12/2023";
+Console.WriteLine("Pedido:");
+Console.WriteLine("Data: " + Pedido.data);
+Console.WriteLine("Cliente:" + Pedido.Cliente.nome);
+Console.WriteLine("Vendedor:" + Pedido.Vendedor.nome);
+Console.WriteLine("Produtos: ");
+
+foreach(var produto in Pedido.Produtos)
+{
+    Console.WriteLine(produto.nome + " Preço: R$"+ produto.preco);
+}
+
