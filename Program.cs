@@ -41,12 +41,16 @@ vendedor V = new vendedor();
 V.id = 1;
 V.nome = "marcos";
 
-//chat gpt ajudou a montar essa lista de produtos.
-List<produto> P = new List<produto>
-{
-    new produto {id = 1, nome = "faca", preco = 50.00},
-    new produto {id = 2, nome = "repelente", preco = 23.90}
-};
+// lista de criação de produtos (criando objeto produto por uma lista) metodo 1
+// List<produto> P = new List<produto>
+// {
+//     new produto {id = 1, nome = "molde", preco = 50.00},
+//     new produto {id = 2, nome = "repelente", preco = 23.90}
+// };
+produto P =  new produto();
+P.id = 1;
+P.nome = "repelente";
+P.preco = 23.90;
 
 
 pedido Pedido = new pedido(C,V,P);
@@ -56,9 +60,13 @@ Console.WriteLine("Data: " + Pedido.data);
 Console.WriteLine("Cliente:" + Pedido.Cliente.nome);
 Console.WriteLine("Vendedor:" + Pedido.Vendedor.nome);
 Console.WriteLine("Produtos: ");
+Console.WriteLine(Pedido.Produto.nome + " R$" + Pedido.Produto.preco.ToString("F2"));
 
-foreach(var produto in Pedido.Produtos)
-{
-    Console.WriteLine(produto.nome + " Preço: R$"+ produto.preco);
-}
+
+
+// print dos produtos metodo 1
+// foreach(var produto in Pedido.Produtos)
+// {
+//     Console.WriteLine(produto.nome + " Preço: R$"+ produto.preco);
+// }
 
